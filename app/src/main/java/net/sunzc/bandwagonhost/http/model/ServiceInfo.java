@@ -1,4 +1,4 @@
-package net.sunzc.bandwagonhost.model;
+package net.sunzc.bandwagonhost.http.model;
 
 /**
  * Created by sun on 16-3-8.

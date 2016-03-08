@@ -1,8 +1,10 @@
 <resources>
-    <string name="app_name">BandwagonHost</string>
+	<string name="app_name">BandwagonHost</string>
 
-    <string name="navigation_drawer_open">Open navigation drawer</string>
-    <string name="navigation_drawer_close">Close navigation drawer</string>
+	<string name="navigation_drawer_open">Open navigation drawer</string>
+	<string name="navigation_drawer_close">Close navigation drawer</string>
 
-    <string name="action_settings">Settings</string>
+	<string name="action_settings">Settings</string>
+	<string name="author">作者:James Sun\nEmail:risensun32@gmail.com</string>
+	<string name="describe">IT7旗下的OPENVZ架构便宜VPS主机产品</string>
 </resources>
